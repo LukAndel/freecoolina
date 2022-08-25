@@ -1,0 +1,9 @@
+.admin-nav {
+  display: flex;
+}
+
+.admin-nav__link {
+  padding: 0 2px;
+}
+
+/*# sourceMappingURL=admin.css.map*/
